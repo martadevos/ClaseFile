@@ -1,0 +1,8 @@
+package Ejercicio1;
+
+public class E1 {
+
+    public static final String RUTA = "src/Ficheros";
+    public static final String FICHERO = "";
+
+}
